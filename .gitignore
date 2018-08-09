@@ -100,3 +100,4 @@ rules/evdev.extras.xml.in
 rules/evdev.lst
 rules/evdev.xml
 rules/evdev.xml.in
+rules/switch
